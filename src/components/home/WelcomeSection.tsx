@@ -13,7 +13,7 @@ const WelcomeSection = () => {
           <div className="relative">
             <div className="w-full h-[500px] bg-gray-200 relative overflow-hidden rounded-lg shadow-lg">
               <img 
-                src="/images-sis/sis-principal.jpg" 
+                src="/images-sis/sis-principal.jpeg" 
                 alt="Principal Kaylani Sinha" 
                 className="w-full h-full object-cover"
               />
@@ -73,3 +73,4 @@ const WelcomeSection = () => {
 };
 
 export default WelcomeSection;
+
